@@ -18,5 +18,6 @@ public class Hello {
         System.out.println("Field of study: " + fieldOfStudy);
         System.out.println("University: " + university);
 
+        scanner.close();
     }
 }
